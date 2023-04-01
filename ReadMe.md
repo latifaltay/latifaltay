@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there! My name is Latif. <br>I'm a Management Information System student.<br>I develop myself every day to become a back-end developer.<br>I'm also interested in cyber security.
+👋 Hi there! My name is Latif. <br>📚 I'm a Management Information System student.<br>👨‍💻 I develop myself every day to become a back-end developer.<br>I'm also interested in cyber security, network and operation system.
 
 
 ## 🌐 Socials:
