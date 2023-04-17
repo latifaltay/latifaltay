@@ -3,6 +3,7 @@
 📚 I'm a Management Information Systems student.<br>
 👨‍💻 I'm developing my skills every day to become a back-end developer.<br>
 💣 I'm also interested in cybersecurity, networking, and operating systems.<br>
+💫 "Once you stop learning you start dying." - Albert Einstein -
 
 
 ## 🌐 Socials:
