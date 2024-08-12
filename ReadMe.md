@@ -3,14 +3,12 @@
 
 
 ## 🌐 Socials:
-<a href="https://latifaltay.com" style="display: inline-block;">
-  <img src="https://github.com/latifaltay/latifaltay/raw/master/logo.png" alt="Website" style="width: 20px; height: auto; vertical-align: middle;"/>
-</a>
---
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/latifaltay) 
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@latifaltay) 
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/lat1faltay)
-
+<a href="https://latifaltay.com" style="display: inline-block;">
+  <img src="https://github.com/latifaltay/latifaltay/raw/master/logo.png" alt="Website" style="width: 20px; height: auto; vertical-align: middle;"/>
+</a>
 
 
 # 💻 Tech Stack:
